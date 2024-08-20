@@ -6,7 +6,7 @@ appdome_build:
 #  FUSION_SET_ID: "11c97910-5320-11ef-9f3f-cd47153b0ee7"
   FUSION_SET_ID: "env_var.FUSION_SET_ID"
   SECOND_OUTPUT: "true"
-  GOOGLE_PLAY_SIGNING: "true"
+  GOOGLE_PLAY_SIGNING: "false"
 #  BUILD_TO_TEST: "None"
 #  TEAM_ID: "None"
   APPDOME_SERVER_BASE_URL: "https://qamaster.dev.appdome.com/"
